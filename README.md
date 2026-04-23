@@ -16,7 +16,6 @@ lista de pessoas
 
 
 
-pessoa 1
-
-pessoa 2
+* Téo Calvo
+* Ruan Pablo
 
